@@ -6,24 +6,15 @@ developed with desktop & mobile in mind.
 # Folder Structure
 
 project-root
-│
-├── index.html
-│ → Main landing page
-│
-├── styles.css
-│ → Site-wide CSS styling
-│
-├── script.js
-│ → JavaScript for interactivity (e.g. collapsible sections, FAQ)
-│
-├── images
-│ → Contains all image assets used in the site
-│ └── logo.png, solar-panel.jpg, etc.
-│
-├── docs
-│ → Contains downloadable PDF product documents
-│ └── inverter-specs.pdf
-│ └── module-specs.pdf
+├── index.html          → Main landing page
+├── styles.css          → Site-wide CSS styling
+├── script.js           → JavaScript interactivity
+├── images/             → Image assets
+│   ├── logo.png
+│   └── solar-panel.jpg
+└── docs/               → PDF product documents
+    ├── inverter-specs.pdf
+    └── module-specs.pdf
 
 # Key Features
 ● Responsive layout and mobile-friendly design
